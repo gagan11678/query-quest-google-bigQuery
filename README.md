@@ -68,10 +68,10 @@ WHERE value > 70 AND subpopulation = 'Multiracial';
 ## References
 
 - [Google BigQuery Docs](https://cloud.google.com/bigquery)
-- (Federated Queries in BigQuery)[https://cloud.google.com/bigquery/docs/federated-queries-intro]
-- (Tableau BigQuery Help)[https://help.tableau.com/current/pro/desktop/en-us/examples_googlebigquery.html]
-- (BigQuery with Datastream)[https://cloud.google.com/datastream/docs/quickstart-replication-to-bigquery]
-- (Looker Studio)[https://lookerstudio.google.com/overview]
+- [Federated Queries in BigQuery](https://cloud.google.com/bigquery/docs/federated-queries-intro)
+- [Tableau BigQuery Help](https://help.tableau.com/current/pro/desktop/en-us/examples_googlebigquery.html)
+- [BigQuery with Datastream](https://cloud.google.com/datastream/docs/quickstart-replication-to-bigquery)
+- [Looker Studio](https://lookerstudio.google.com/overview])
 
 ## Conclusion
 
